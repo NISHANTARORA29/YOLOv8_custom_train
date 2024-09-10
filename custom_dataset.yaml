@@ -1,0 +1,6 @@
+# Save this as custom_dataset.yaml
+train: /Users/nishantarora/Desktop/intern proj/custom_Dataset/Images/train
+val: /Users/nishantarora/Desktop/intern proj/custom_Dataset/Images/val
+
+nc: 14  # Number of classes
+names: ['machine1', 'machine2', 'machine3', 'machine4', 'machine5', 'machine6', 'machine7', 'machine8-L1','machine8-L2',machine9-L3,'machine9', 'machine10','machine11','machine12']

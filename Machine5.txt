@@ -1,0 +1,2 @@
+A CNC plasma cutter is a machine used to cut conductive materials, such as steel, using a jet of plasma (ionized gas). The CNC system automates the cutting process, allowing for precision in shapes and patterns. Plasma cutters are widely used in metal fabrication, automotive repair, and construction industries. They are favored for their ability to quickly cut through thick metals with minimal distortion.
+

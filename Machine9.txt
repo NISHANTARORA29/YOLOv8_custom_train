@@ -1,0 +1,2 @@
+A CNC (Computer Numerical Control) milling machine is used for precise and automated cutting of materials like metal, plastic, or wood. It works by rotating a cutting tool and moving it along multiple axes to remove material from a stationary workpiece. CNC milling machines are used in industries such as aerospace, automotive, and manufacturing to create highly accurate parts. Operators use software to design the part and control the machine’s movements.
+
